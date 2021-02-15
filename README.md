@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 ## 🤝 Connect
 
 [![Twitter](./icons/twitter.svg)](https://twitter.com/GeetanshAtrey) &nbsp;&nbsp;&nbsp;
 [![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/geetanshatrey/) &nbsp;&nbsp;&nbsp;
-[![Email](./icons/email.svg)](mailto:atrey.geetansh@gmail.com)
+[![Email](./icons/email.png)](mailto:atrey.geetansh@gmail.com)
 
 
 <!--
