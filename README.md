@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 🤝 Connect
+
+[![Twitter](./icons/twitter.svg)](https://twitter.com/GeetanshAtrey) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/geetanshatrey/) &nbsp;&nbsp;&nbsp;
+[![Instagram](./icons/instagram.svg)](https://www.instagram.com/_salilnaik_/) &nbsp;&nbsp;&nbsp;
+[![Email](./icons/email.svg)](mailto:atrey.geetansh@gmail.com)
+
+
 <!--
 **geetanshatrey/geetanshatrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
