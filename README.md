@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I'm currently into Mobile App Development(Java on Android & Swift on iOS).
+- 🔭 I'm currently into Mobile App Development (Java on Android & Swift on iOS).
 - 🌱 I’m currently learning Blockchain Development.
 
 ## 🤝 Connect
