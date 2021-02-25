@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geetanshatrey&show_icons=true&theme=default" alt="geetanshatrey" />
+  
+  
+### 🧑‍💻  This week, I spent my time on:
+[![geetanshatrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geetanshatrey&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+
