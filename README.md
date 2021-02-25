@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geetanshatrey&show_icons=true&theme=default" alt="geetanshatrey" />
-  
-  
-### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshatrey)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
