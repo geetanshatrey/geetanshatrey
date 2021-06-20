@@ -2,6 +2,9 @@
 
 ## Hi there 👋
 
+- I'm currently into Mobile App Development (Java on Android & Swift on iOS)
+- I’m currently learning Blockchain Development on Ethereum using Solidity.
+
 ## 🤝 Connect
 
 [![Twitter](./icons/twitter.svg)](https://twitter.com/GeetanshAtrey) &nbsp;&nbsp;&nbsp;
@@ -15,8 +18,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ....
+- 🌱 I’m currently learning ....
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,3 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geetanshatrey&show_icons=true&theme=default" alt="geetanshatrey" />
+
+
+
