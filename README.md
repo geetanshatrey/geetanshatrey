@@ -1,4 +1,4 @@
-![Header](./pictures/header.png "Header")]
+![Header](./pictures/Banner.png "Header")]
 
 ## Hi there 👋
 
