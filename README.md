@@ -1,15 +1,21 @@
-![Header](./pictures/Banner.png "Header")
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-## Hi there 👋
+<hr>
+
+<!-- <a href="https://twitter.com/GeetanshAtrey">
+  <img align="left" alt="@GeetanshAtrey" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/geetanshatrey/">
+  <img align="left" alt="Geetansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> -->
+
+
+<br>
+
 
 - I'm currently into Mobile App Development (Java on Android & Swift on iOS)
 - I’m currently learning Blockchain Development on Ethereum using Solidity.
-
-## 🤝 Connect
-
-[![Twitter](./icons/twitter.svg)](https://twitter.com/GeetanshAtrey) &nbsp;&nbsp;&nbsp;
-[![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/geetanshatrey/) &nbsp;&nbsp;&nbsp;
-[![Email](./icons/email.svg)](mailto:atrey.geetansh@gmail.com)
 
 
 
@@ -27,10 +33,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 
-📈 My GitHub Stats
+### 🚀 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geetanshatrey&show_icons=true&theme=default" alt="geetanshatrey" />
+<p align="left">
+    <img
+        height="225em"
+        src="https://github-readme-streak-stats.herokuapp.com?user=geetanshatrey&theme=elegant&date_format=M%20j%5B%2C%20Y%5D"
+    />
+</p>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshatrey&layout=compact)](https://github.com/geetanshatrey/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanshatrey">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geetanshatrey&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+ -->
