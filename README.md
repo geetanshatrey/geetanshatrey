@@ -1,19 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
-<hr>
+---
 
-<!-- <a href="https://twitter.com/GeetanshAtrey">
+<a href="https://twitter.com/GeetanshAtrey">
   <img align="left" alt="@GeetanshAtrey" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/geetanshatrey/">
   <img align="left" alt="Geetansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+</a>
 
-
+<br><br>
 - I'm currently into Mobile App Development (Java on Android & Swift on iOS)
 - I’m currently learning Blockchain Development on Ethereum using Solidity.
 
+---
 
 
 <!--
@@ -30,21 +31,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 
 ### 🚀 GitHub Statistics
 
 <p align="left">
     <img
-        height="225em"
-        src="https://github-readme-streak-stats.herokuapp.com?user=geetanshatrey&theme=elegant&date_format=M%20j%5B%2C%20Y%5D"
+        width="53.8%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=geetanshatrey&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"
     />
+  <img width="45.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshatrey&layout=compact&theme=algolia"/>
 </p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshatrey&layout=compact)](https://github.com/geetanshatrey/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geetanshatrey">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geetanshatrey&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
- -->
