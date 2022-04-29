@@ -11,7 +11,7 @@
 </a>
 
 <br><br>
-<p>I'm currently interning at <a href="https://github.com/vmware">VMware</a>, where I'm working as a Full Stack Developer. I have experience of working on various technologies & frameworks such as - Angular, Swift5 (for iOS Development), Java (for Android & Web Development). I'm also learning Blockchain Development on Ethereum (using Solidity), trying to make contributions to the web3 space. 
+<p>I'm currently a final year undergrad student at KIIT University. I have experience of working on various technologies & frameworks such as - Angular, Swift5 (for iOS Development), Java (for Android & Web Development). I'm also learning Blockchain Development on Ethereum (using Solidity), trying to make contributions to the web3 space. 
 </p>
 
 ---
