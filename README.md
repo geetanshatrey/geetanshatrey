@@ -1,7 +1,9 @@
 ### Hey there! 👋
 
 ---
-<p>I'm currently a final year undergrad student at KIIT University. I have experience of working on various technologies & frameworks such as - Angular, Swift5 (for iOS Development), Java (for Android & Web Development). I'm also learning Blockchain Development on Ethereum (using Solidity), trying to make contributions to the web3 space. 
+<p>Software Engineer and former MTS-2 at VMware’s Office of the CTO, where I worked on full-stack systems and incubated early-stage products. I’ve also built scalable solutions for clients globally, as a freelance developer.
+
+Now building a product in AI × Travel. If you’d like to know more or jam on ideas, let’s connect! 🤝
 </p>
 
 ---
